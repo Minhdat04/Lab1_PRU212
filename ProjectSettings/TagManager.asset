@@ -6,13 +6,11 @@ TagManager:
   tags:
   - Wall
   - Funiture
-  - Dust
-  - Vaccum
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Dust
+  - 
   - Water
   - UI
   - 
